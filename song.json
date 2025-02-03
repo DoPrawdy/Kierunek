@@ -1,0 +1,10 @@
+{
+  "unit": 36000,
+  "loops": {
+    "guitar": [[0, 4]],
+    "bass": [[1, 4, {"volume_modifier": -3}]],
+    "flute2": [[1, 2, {"start_offset": -500, "end_offset": -3000, "volume_modifier": 15}]],
+    "flute": [[3, 4, {"volume_modifier": 3, "end_offset": -3000}]],
+    "guitar2": [[2, 3, {"start_offset": -100, "end_offset": -500}]]
+  }
+}
